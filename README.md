@@ -17,6 +17,7 @@ main page dark theme
 template selection theme
 
 about mr page theme
+(screenshots/about page.png)
 
 #### Built With
 - [React](https://reactjs.org/)
