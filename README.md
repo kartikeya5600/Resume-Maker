@@ -9,15 +9,17 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 - Dark mode for easy viewing
 - Image upload for profile picture
 ### ScreenShots
-main page light theme
+home page in light theme:
+![main page light theme](screenshots/home_page_light_theme.png)
 
+home page in dark theme:
+![main page dark theme](screenshots/home_page_dark_theme.png)
 
-main page dark theme
+template selection page:
+![template selection theme](screenshots/template_selection.png)
 
-template selection theme
-
-about mr page theme
-(screenshots/about page.png)
+about me page :
+![about me page theme](screenshots/about_page.png)
 
 #### Built With
 - [React](https://reactjs.org/)
